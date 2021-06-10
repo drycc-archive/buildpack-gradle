@@ -2,6 +2,9 @@
 
 ## main
 
+* Fix a bug causing Gradle daemon to be unintentionally used when executing builds 
+* Remove heroku-16 support
+
 ## v35
 
 * Update tests
